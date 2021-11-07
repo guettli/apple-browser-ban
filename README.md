@@ -12,11 +12,11 @@ Apple is restricting freedom, innovation and progress.
 
 What I want:
 
-* As I user a want to be able run the chromium browser engine on iPhone and IPad
-* As I user I want my web-browser to have great offline functions like native apps have. See [What are Progressive Web Apps?](https://web.dev/what-are-pwas/)
+* As I user a want to be able run the chromium browser engine on iPhone and iPad
+* As I user I want my web-browser to have great offline capabilities like native apps have. See [What are Progressive Web Apps?](https://web.dev/what-are-pwas/)
 * As a user I want my browser to by my new desktop. I want to create bookmarks and send hyperlinks from all pages.
 * As a developer I want to write code once and I want users to be able to access my application by following a hyperlink. I want my users give access to my web application without requiring them to install a native app.
-* As an enterpreneur I want to reduce development costs: I don't want to be "Waiting for Review" by the App Store owner. I want publish new version within minutes.
+* As an enterpreneur I want to reduce development costs: I don't want to be "Waiting for Review" by the app store owner. I want publish new version within minutes.
 
 You find the latest news about this topic at [#AppleBrowserBan (twitter)](https://twitter.com/hashtag/AppleBrowserBan)
 
