@@ -27,3 +27,12 @@ This is a small collection of links and notes about "Apple Browser Ban".
 [Apple’s Browser Engine Ban Is Holding Back Web App Innovation
 27 Sep 2021 6:00am, by Richard MacManus](https://thenewstack.io/apples-browser-engine-ban-is-holding-back-web-app-innovation/)
 
+
+# I love feedback
+
+You found a mistake or you have an idea how to improve this page? Please create an Github issue.
+
+# Related
+
+[Thomas Working-out-Loud](/guettli/wol)
+
