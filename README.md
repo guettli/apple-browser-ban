@@ -34,5 +34,5 @@ You found a mistake or you have an idea how to improve this page? Please create 
 
 # Related
 
-[Thomas Working-out-Loud](/guettli/wol)
+[Thomas Working-out-Loud](//github.com/guettli/wol)
 
