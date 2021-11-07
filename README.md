@@ -22,10 +22,16 @@ You find the latest news about this topic at [#AppleBrowserBan (twitter)](https:
 
 This is a small collection of links and notes about "Apple Browser Ban".
 
+# Articles
+
 > By forcing browser vendors like Google, Microsoft and Mozilla to use the WebKit browser engine, Apple is deliberately restricting the functionality of web apps on iOS. It’s why many of the features of progressive web apps (PWAs) do not work on an iPhone or iPad.
 
 [Apple’s Browser Engine Ban Is Holding Back Web App Innovation
 27 Sep 2021 6:00am, by Richard MacManus](https://thenewstack.io/apples-browser-engine-ban-is-holding-back-web-app-innovation/)
+
+---
+
+[Apple, Its Control Over the iPhone, and The Internet Feb 2, 2021 - Written By Matthew Ball](https://www.matthewball.vc/all/applemetaverse)
 
 
 # I love feedback
