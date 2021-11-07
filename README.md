@@ -31,7 +31,10 @@ This is a small collection of links and notes about "Apple Browser Ban".
 
 ---
 
+> Instead, Apple is inhibiting this future Internet. And it does so via tolls, controls, and technologies that not only deny what made and still makes the open web so powerful, but also prevents competition, and prioritize Apple’s own profits.
+
 [Apple, Its Control Over the iPhone, and The Internet Feb 2, 2021 - Written By Matthew Ball](https://www.matthewball.vc/all/applemetaverse)
+
 
 
 # I love feedback
