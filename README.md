@@ -35,6 +35,12 @@ This is a small collection of links and notes about "Apple Browser Ban".
 
 [Apple, Its Control Over the iPhone, and The Internet Feb 2, 2021 - Written By Matthew Ball](https://www.matthewball.vc/all/applemetaverse)
 
+---
+
+> WebKit, by contrast, has in recent years gone so far as to publicly, pre-emptively "decline to implement" a veritable truckload features that some vendors feel are essential and would be willing to ship in their products.
+
+
+[iOS Engine Choice In Depth by Alex Russell](https://infrequently.org/2021/08/webkit-ios-deep-dive/)
 
 
 # I love feedback
