@@ -24,6 +24,11 @@ This is a small collection of links and notes about "Apple Browser Ban".
 
 # Articles
 
+
+> there is no browser choice on iOS. It’s all Safari. You can download apps that are named Chrome or Firefox, or anything else, but they are just veneer over Safari. If you’re viewing a website on iOS, it’s Safari.
+
+[iOS Browser Choice, Chris Coyier on Sep 28, 2021](https://css-tricks.com/ios-browser-choice/)
+
 > By forcing browser vendors like Google, Microsoft and Mozilla to use the WebKit browser engine, Apple is deliberately restricting the functionality of web apps on iOS. It’s why many of the features of progressive web apps (PWAs) do not work on an iPhone or iPad.
 
 [Apple’s Browser Engine Ban Is Holding Back Web App Innovation
