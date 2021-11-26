@@ -25,6 +25,12 @@ This is a small collection of links and notes about "Apple Browser Ban".
 # Articles
 
 
+> I’ve taken a look at several recent articles about the Apple browser ban. People are making great arguments, but I don’t think Apple cares much about them. So let’s try something else. I will play Apple, and you try to persuade me to end the browser ban. The goal is to find arguments that could motivate Apple to end the ban.
+
+[Let’s say I’m Apple. Why should I allow other browser engines on iOS?, 25 Nov 2021, u/Zagrebian on reddit](https://www.reddit.com/r/webdev/comments/r1iomc/lets_say_im_apple_why_should_i_allow_other/)
+
+---
+
 > there is no browser choice on iOS. It’s all Safari. You can download apps that are named Chrome or Firefox, or anything else, but they are just veneer over Safari. If you’re viewing a website on iOS, it’s Safari.
 
 [iOS Browser Choice, Chris Coyier on Sep 28, 2021](https://css-tricks.com/ios-browser-choice/)
@@ -34,7 +40,7 @@ This is a small collection of links and notes about "Apple Browser Ban".
 > By forcing browser vendors like Google, Microsoft and Mozilla to use the WebKit browser engine, Apple is deliberately restricting the functionality of web apps on iOS. It’s why many of the features of progressive web apps (PWAs) do not work on an iPhone or iPad.
 
 [Apple’s Browser Engine Ban Is Holding Back Web App Innovation
-27 Sep 2021 6:00am, by Richard MacManus](https://thenewstack.io/apples-browser-engine-ban-is-holding-back-web-app-innovation/)
+27 Sep 2021, by Richard MacManus](https://thenewstack.io/apples-browser-engine-ban-is-holding-back-web-app-innovation/)
 
 ---
 
