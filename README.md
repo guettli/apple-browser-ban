@@ -8,7 +8,13 @@ Today (year 2021) we are used to install native applications on our smartphones.
 * Developing native applications is much more difficult than developing web based applications
 * Developing a web frontend and a native app is useless/duplicated work.
 
-Apple is restricting freedom, innovation and progress.
+Apple is restricting freedom, innovation and progress with the restriction that only WebKit based applications are allowed in iOS:
+
+Apple Store Review Guidelines:
+
+> 2.5.6 Apps that browse the web must use the appropriate WebKit framework and WebKit Javascript.
+
+[Apple Store Review Guidelines 2.5.6](https://developer.apple.com/app-store/review/guidelines/#2.5.6)
 
 What I want:
 
