@@ -24,6 +24,10 @@ This is a small collection of links and notes about "Apple Browser Ban".
 
 # Articles
 
+> Apple and Google duopoly limits competition and choice
+
+[The CMA’s interim report into mobile ecosystems suggests that users are losing out because of Apple and Google’s duopoly.](https://www.gov.uk/government/news/apple-and-google-duopoly-limits-competition-and-choice)
+
 
 > I’ve taken a look at several recent articles about the Apple browser ban. People are making great arguments, but I don’t think Apple cares much about them. So let’s try something else. I will play Apple, and you try to persuade me to end the browser ban. The goal is to find arguments that could motivate Apple to end the ban.
 
