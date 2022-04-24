@@ -28,6 +28,14 @@ You find the latest news about this topic at [#AppleBrowserBan (twitter)](https:
 
 This is a small collection of links and notes about "Apple Browser Ban".
 
+# Related
+
+[appfairness.org](https://appfairness.org/)
+
+[open-web-advocacy.org](https://open-web-advocacy.org/)
+
+[Digital Markets Act (EU)](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2020/0374(COD))
+
 # Articles
 
 > Apple and Google duopoly limits competition and choice
